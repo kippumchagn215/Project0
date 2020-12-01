@@ -1,0 +1,127 @@
+Mario
+BA: 0.000
+OB%: NaN
+H: 0
+BB: 0
+K: 0
+HBP: 0
+
+Luigi
+BA: 0.000
+OB%: NaN
+H: 0
+BB: 0
+K: 0
+HBP: 0
+
+Toad
+BA: 0.000
+OB%: NaN
+H: 0
+BB: 0
+K: 0
+HBP: 0
+
+LEAGUE LEADERS
+BA: [Ljava.lang.String;@5d5eef3d 0.000
+OB%: [Ljava.lang.String;@56f4468b NaN
+H: [Ljava.lang.String;@6cc4c815 0
+BB: [Ljava.lang.String;@3a82f6ef 0
+K: [Ljava.lang.String;@100fc185 0
+HBP: [Ljava.lang.String;@643b1d11 0
+Mario
+BA = 0.357 
+OB = 0.500 
+Hits =5
+Walks =6
+StrikeOuts =5
+Hit by Pitch =4
+                                                                                   
+Luigi
+BA = 0.529 
+OB = 0.600 
+Hits =9
+Walks =6
+StrikeOuts =5
+Hit by Pitch =3
+                                                                                   
+Toad
+BA = 0.611 
+OB = 0.700 
+Hits =11
+Walks =6
+StrikeOuts =3
+Hit by Pitch =4
+                                                                                   
+Mario
+BA = 0.357 
+OB = 0.500 
+Hits =5
+Walks =6
+StrikeOuts =5
+Hit by Pitch =4
+                                                                                   
+Luigi
+BA = 0.529 
+OB = 0.600 
+Hits =9
+Walks =6
+StrikeOuts =5
+Hit by Pitch =3
+                                                                                   
+Toad
+BA = 0.611 
+OB = 0.700 
+Hits =11
+Walks =6
+StrikeOuts =3
+Hit by Pitch =4
+                                                                                   
+Mario
+BA = 0.357 
+OB = 0.500 
+Hits =5
+Walks =6
+StrikeOuts =5
+Hit by Pitch =4
+                                                                                   
+Luigi
+BA = 0.529 
+OB = 0.600 
+Hits =9
+Walks =6
+StrikeOuts =5
+Hit by Pitch =3
+                                                                                   
+Toad
+BA = 0.611 
+OB = 0.700 
+Hits =11
+Walks =6
+StrikeOuts =3
+Hit by Pitch =4
+                                                                                   
+Mario
+BA = 0.357 
+OB = 0.500 
+Hits =5
+Walks =6
+StrikeOuts =5
+Hit by Pitch =4
+                                                                                   
+Luigi
+BA = 0.529 
+OB = 0.600 
+Hits =9
+Walks =6
+StrikeOuts =5
+Hit by Pitch =3
+                                                                                   
+Toad
+BA = 0.611 
+OB = 0.700 
+Hits =11
+Walks =6
+StrikeOuts =3
+Hit by Pitch =4
+                                                                                   
